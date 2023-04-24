@@ -3,4 +3,4 @@
 
 int _printf(const char *format, ...);
 
-#endif /*MAIN_H*/test
+#endif /*MAIN_H*/t
